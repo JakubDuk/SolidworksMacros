@@ -9,4 +9,6 @@ I have attached compiled/ready to use *.swp files as well as *.bas files that al
 
 <b>Open Flat Pattern Drawing</b> <-- simple macro that helps to quickly open files saved using "Draft Flat Prefix". It only works with parts and draft files and, as with the rest of those, works best when bind to a keyboard shortcut.
 
-<b>KG in properties</b> <-- This will change your mass units to Kg and open custom properties window (to check the value). This macro had been designed to quickly change units of mass and only works if the unit system is set to custom. The same principle can be used in order to change different units and settings.
+<b>KG in properties</b> <-- this will change your mass units to Kg and open custom properties window (to check the value). This macro had been designed to quickly change units of mass and only works if the unit system is set to custom. The same principle can be used in order to change different units and settings.
+
+<b>Scale +1 / Scale -1</b> <-- this 2 macros are used in a drawing to change its global scale. It works grate if combined with keyboard shortcut like "Ctrl+/Ctrl-". It requires the drawing views to be set to "Use sheet scale", which is the default and helps to maintain scale values between views and sheet format value that might be somewhere in the drawing table.
